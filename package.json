@@ -70,7 +70,7 @@
     "@sentry/electron": "^0.14.0",
     "@types/jasmine": "~3.3.4",
     "@types/jasminewd2": "~2.0.6",
-    "@types/node": "~10.12.17",
+    "@types/node": "~10.12.18",
     "codelyzer": "~4.5.0",
     "electron": "3.0.13",
     "electron-builder": "^20.38.3",
